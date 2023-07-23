@@ -1,0 +1,6 @@
+Enter number 1
+Enter number 2
+Enter number 3
+Enter number 4
+List of numbers
+11 21 31 41 
